@@ -360,12 +360,12 @@ def plot_teams_with_pygame():
         background1 = pygame.image.load("Aerial Skies (1).jpg").convert_alpha()
         # Load airplane sprite once
         airplane = pygame.image.load("plane.png").convert_alpha()
-        airplane = pygame.transform.scale(airplane, (100, 100))
+        airplane = pygame.transform.scale(airplane, (150, 100))
 
         # Create multiple planes
 
         background1 = pygame.transform.scale(background1, (800, 600))
-        airplane = pygame.transform.scale(airplane, (100, 100))
+        # airplane = pygame.transform.scale(airplane, (100, 100))
 
         screen.blit(background1, (0, 0))
 
