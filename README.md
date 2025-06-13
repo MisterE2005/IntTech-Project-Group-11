@@ -4,3 +4,6 @@
 - websockets
 
 otherwise you will run into the problem of the code not working. 
+
+
+Made by: Olivier Spieker, Jasmijn Huisman, Amber Jager & Gorkem Çardak 
