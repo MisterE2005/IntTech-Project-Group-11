@@ -1,3 +1,5 @@
+#Code made by: Olivier Spieker, Jasmijn Huisman, Amber Jager & Gorkem Çardak
+
 from websockets.sync.client import connect
 import json
 from collections import defaultdict
