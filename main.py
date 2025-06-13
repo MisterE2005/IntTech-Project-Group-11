@@ -1,4 +1,8 @@
-#Code made by: Olivier Spieker, Jasmijn Huisman, Amber Jager & Gorkem Çardak
+#Code made by: 
+#Olivier Spieker - s3248771
+#Jasmijn Huisman - s3275116
+#Amber Jager - s3278441
+#Gorkem Çardak - s2651815
 
 from websockets.sync.client import connect
 import json
